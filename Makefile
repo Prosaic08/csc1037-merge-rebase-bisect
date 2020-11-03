@@ -1,0 +1,3 @@
+
+test:
+	python ./arithmetic.py
