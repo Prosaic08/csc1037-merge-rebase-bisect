@@ -3,7 +3,7 @@ def add(x, y):
    return x + y
 
 def square(n):
-   return n * n
+   return n * n + 1
 
 if __name__ == "__main__":
    print "add(3, 4) ->", add(3, 4)
@@ -12,4 +12,4 @@ if __name__ == "__main__":
    print "square(3) ->", square(3)
    assert(square(3) == 9)
 
-#comment 6355
+#comment 8307
