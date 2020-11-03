@@ -18,3 +18,7 @@ This is a Python2 implementation:
 Or, if python2 is the default version of Python, then just:
 
    $ python arithmetic.py
+
+------------------------------------------------------------------------
+
+When you are done, read README-2.txt.
