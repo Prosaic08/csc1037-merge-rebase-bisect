@@ -12,4 +12,4 @@ if __name__ == "__main__":
    print "square(3) ->", square(3)
    assert(square(3) == 9)
 
-#comment 30552
+#comment 16354
