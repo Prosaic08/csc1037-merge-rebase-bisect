@@ -8,6 +8,10 @@ Your task is to find the offending commit and revert it.
 
 There are a lot of commits!
 
+Try this:
+
+   $ git log --oneline --graph
+
 Use "git bisect" to find the offending commit.
 
 Then use "git revert" to revert that commit.
