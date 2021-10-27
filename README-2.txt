@@ -1,1 +1,1 @@
-Checkout the branch named "square", and read the README file there.
+Checkout the branch named "divide", and read the README file there.
