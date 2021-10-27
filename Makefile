@@ -1,3 +1,3 @@
 
 test:
-	python ./arithmetic.py
+	python2.7 ./arithmetic.py

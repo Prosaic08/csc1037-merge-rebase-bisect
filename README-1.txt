@@ -15,6 +15,10 @@ This is a Python2 implementation:
 
    $ python2 arithmetic.py
 
+Or perhaps:
+
+   $ python2.7 arithmetic.py
+
 Or, if python2 is the default version of Python, then just:
 
    $ python arithmetic.py
