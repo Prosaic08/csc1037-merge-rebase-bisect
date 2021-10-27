@@ -2,6 +2,9 @@
 
 python="python2.7"
 
+# If you want to use this script, then you probably want to copy
+# it to somewhere outside of the reop.
+
 # Usage... either:
 #
 #    $ zsh ca282-merge-rebase-bisect--verify.zsh
